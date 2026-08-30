@@ -1,6 +1,6 @@
 baseURL = "http://xinuo.jnk.ink/"
 
-title = "价格表"
+title = "希诺价格表"
 theme = "hugo-book"
 # Book configuration
 disablePathToLower = true
